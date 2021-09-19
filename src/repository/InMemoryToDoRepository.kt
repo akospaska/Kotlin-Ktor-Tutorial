@@ -1,5 +1,7 @@
 package com.KtorTutorial.repository
 
+import com.KtorTutorial.enteties.Customer
+import com.KtorTutorial.enteties.CustomerName
 import com.KtorTutorial.enteties.ToDo
 
 class InMemoryToDoRepository : ToDoRepository {
@@ -12,5 +14,13 @@ class InMemoryToDoRepository : ToDoRepository {
 
     override fun getToDo(id: Int): ToDo? {
         return todos.firstOrNull { it.id == id }
+    }
+
+    override fun getAllCustomer(): List<Customer>? {
+        TODO("Not yet implemented")
+    }
+
+    override fun getCustomerName(): List<CustomerName>? {
+        TODO("Not yet implemented")
     }
 }
