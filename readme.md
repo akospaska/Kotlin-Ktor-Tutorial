@@ -1,8 +1,14 @@
 # Kotlin Ktor tutorial for beginners
 
+#### You can find the Spring Boot version of this Tutorial on this link:
+
+#### https://github.com/akospaska/Kotlin-Spring-boot-tutorial-for-script-Coders
+
+---
+
 ## I was struggeling when i have decided i will learn about server side Kotlin.
 
-### I didn't found any simple sample backend code.
+### I didn't find any simple sample backend code for study.
 
 That is why i have created this one
 
@@ -56,7 +62,11 @@ That is why i have created this one
 
 ---
 
-### You can Reach the Inventory App's through this link: http://localhost:8080/static/index.html
+### After the code is running, You can Reach the Inventory App's through this link: http://localhost:8080/static/index.html
+
+## You can find the Spring Boot version of this Tutorial on this link:
+
+## https://github.com/akospaska/Kotlin-Spring-boot-tutorial-for-script-Coders
 
 ## Have fun during the development!!! 🎉🎉
 
