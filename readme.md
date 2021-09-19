@@ -56,6 +56,8 @@ That is why i have created this one
 
 ---
 
+### You can Reach the Inventory App's through this link: http://localhost:8080/static/index.html
+
 ## Have fun during the development!!! 🎉🎉
 
 ### Ákos Paska
