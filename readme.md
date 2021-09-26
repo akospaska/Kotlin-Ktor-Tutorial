@@ -23,7 +23,6 @@ That is why i have created this one
 ### Before the first code running:
 
 - Intelj idea is strongly recommended when you are new in Kotlin Development
-- ParcelShop can be selected from list and clicking on the map
 - For the Mysql Connection you have to define an exact package in the IDE.
 - Location:File/ProjectStructure/Libaries than add the file what you can find in the MysqlConnectorFile folder.
 - You have to Install the Ktor plugin through the IDE's plugin/extensions menu
