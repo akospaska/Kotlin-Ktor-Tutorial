@@ -39,7 +39,7 @@ That is why i have created this one
 
 ### ScreenShot:
 
-![alt text](https://myfirstwebapp-siwvh.run-eu-central1.goorm.io/apirequests/inventoryphoto)
+![alt text](https://myfirstwebapp-siwvh.run-eu-central1.goorm.io/images/inventoryphoto.jpg)
 
 ### Features:
 
