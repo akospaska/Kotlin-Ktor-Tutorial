@@ -6,27 +6,27 @@
 
 ---
 
-## I was struggeling when i have decided i will learn about server side Kotlin.
+## I was struggling when I have decided I will learn about server side Kotlin.
 
 ### I didn't find any simple sample backend code for study.
 
-That is why i have created this one
+That is why I have created this one
 
 ## Goal
 
 - Create a REST full backend server
-- Create an active connection with a mysql database
-- Serve the React App's HTML and Javascript files
+- Create an active connection with a MySQL database
+- Serve the React App's HTML and JavaScript files
 
-## Extra informations
+## Extra information
 
 ### Before the first code running:
 
-- Intelj idea is strongly recommended when you are new in Kotlin Development
-- For the Mysql Connection you have to define an exact package in the IDE.
+- Intelj idea is strongly recommended when you are new to Kotlin Development
+- For the MySQL Connection, you have to define an exact package in the IDE.
 - Location:File/ProjectStructure/Libaries than add the file what you can find in the MysqlConnectorFile folder.
 - You have to Install the Ktor plugin through the IDE's plugin/extensions menu
-- Create the SQL Database and the table what is needed. You can find the exact query in the MysqlConnectorFile folder.
+- Create the SQL Database and the table, what is needed. You can find the exact query in the MysqlConnectorFile folder.
 
   <br>
   <br>
@@ -45,7 +45,7 @@ That is why i have created this one
 
 - Add new inventory items
 - Delete existing items
-- Decrese or increse the count value of the inventory item's
+- Decrease or increase the count value of the inventory item's
 
 ---
 
@@ -56,7 +56,7 @@ That is why i have created this one
 - Handle Post request's parameters
 - Stringify Objects to JSON
 - Parse JSON strings
-- Create a connection between the Backend code and a Mysql Database
+- Create a connection between the Backend code and a MySQL Database
 - Host HTML/JS files
 
 ---
@@ -72,3 +72,4 @@ That is why i have created this one
 ### Ákos Paska
 
 ### 2021.09.19.
+
